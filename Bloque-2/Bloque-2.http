@@ -1,0 +1,6 @@
+@Bloque_2_HostAddress = http://localhost:5283
+
+GET {{Bloque_2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
